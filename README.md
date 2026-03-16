@@ -8,6 +8,12 @@ TaskFlow is designed to simplify task management between **admins and employees*
 
 The application provides a clear overview of **active, completed, and failed tasks**, helping both admins and employees manage work efficiently.
 
+## 🚀 Live Demo
+
+Check out the live projects here:
+
+- **TaskFlow (Task Manager)**: [Live Demo](https://task-flow-brown-iota.vercel.app/)
+
 ## 🚀 Features
 
 ### 🔐 Authentication
