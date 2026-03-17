@@ -8,6 +8,17 @@ TaskFlow is designed to simplify task management between **admins and employees*
 
 The application provides a clear overview of **active, completed, and failed tasks**, helping both admins and employees manage work efficiently.
 
+## 🖼️ Project Preview
+
+<p align="center">
+  <img src="login.png" width="45%" />
+  <img src="admin-dashboard.png" width="45%" />
+</p>
+
+<p align="center">
+  <img src="employee-dashboard.png" width="45%" />
+</p>
+
 ## 🚀 Live Demo
 
 Check out the live projects here:
