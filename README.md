@@ -11,8 +11,8 @@ The application provides a clear overview of **active, completed, and failed tas
 ## 🖼️ Project Preview
 
 <p align="center">
-  <img src="login.png" width="45%" />
-  <img src="admin-dashboard.png" width="45%" />
+  <img src="Login.png" width="45%" />
+  <img src="Admin-dashboard.png" width="45%" />
 </p>
 
 <p align="center">
